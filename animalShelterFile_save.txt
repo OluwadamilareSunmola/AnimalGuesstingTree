@@ -1,0 +1,127 @@
+Report 1:
+Number of Animals: 14
+Number of Cats: 8
+Number of Dogs: 4
+Number of Other Animals: 2
+
+Report 2: Other Animals Introductions
+
+Hello, my name is : 
+I am : 0 years old
+My Weight is : 0 pounds.
+My Breed is: Mynah
+My Color is: black
+My current Health Status is: 
+My sound is: 
+
+Hello, my name is : Chippy
+I am : 0 years old
+My Weight is : 1 pounds.
+My Breed is: 
+My Color is: tan
+My current Health Status is: 
+My sound is: 
+
+
+Report 3: Cat Introductions
+
+Cat -> Meow! Hello, my name is : Morris
+I am : 9 years old
+My Weight is : 3 pounds.
+My Breed is: 
+My Color is: yellow
+My current Health Status is: good
+My sound is: Moan
+
+Cat -> Meow! Hello, my name is : Mittens
+I am : 1 years old
+My Weight is : 1 pounds.
+My Breed is: Calico
+My Color is: brown and white
+My current Health Status is: good
+My sound is: Mew
+
+Cat -> Meow! Hello, my name is : Junior
+I am : 1 years old
+My Weight is : 2 pounds.
+My Breed is: Tabby
+My Color is: black
+My current Health Status is: 
+My sound is: 
+
+Cat -> Meow! Hello, my name is : Priss
+I am : 0 years old
+My Weight is : 0 pounds.
+My Breed is: 
+My Color is: white
+My current Health Status is: good
+My sound is: Mew
+
+Cat -> Meow! Hello, my name is : Charcoal
+I am : 1 years old
+My Weight is : 2 pounds.
+My Breed is: Siamese
+My Color is: white and yellow
+My current Health Status is: good
+My sound is: Hiss
+
+Cat -> Meow! Hello, my name is : Charmin
+I am : 0 years old
+My Weight is : 3 pounds.
+My Breed is: 
+My Color is: white
+My current Health Status is: parvo
+My sound is: 
+
+Cat -> Meow! Hello, my name is : Red
+I am : 2 years old
+My Weight is : 0 pounds.
+My Breed is: Heinz
+My Color is: redddish
+My current Health Status is: parvo
+My sound is: 
+
+Cat -> Meow! Hello, my name is : Cute Stuff
+I am : 1 years old
+My Weight is : 2 pounds.
+My Breed is: 
+My Color is: yellow
+My current Health Status is: good
+My sound is: Purr
+
+
+Report 4: Dog Introductions
+
+Dog -> Woof! Hello, my name is : Bitsy
+I am : 4 years old
+My Weight is : 6 pounds.
+My Breed is: Minx
+My Color is: grey
+My current Health Status is: good
+My sound is: 
+
+Dog -> Woof! Hello, my name is : Fido
+I am : 5 years old
+My Weight is : 7 pounds.
+My Breed is: 
+My Color is: spotted
+My current Health Status is: good
+My sound is: Bark
+
+Dog -> Woof! Hello, my name is : Rex
+I am : 3 years old
+My Weight is : 5 pounds.
+My Breed is: 
+My Color is: brown and white
+My current Health Status is: good
+My sound is: 
+
+Dog -> Woof! Hello, my name is : Spot
+I am : 0 years old
+My Weight is : 8 pounds.
+My Breed is: Dalmation
+My Color is: spotted
+My current Health Status is: 
+My sound is: Woof
+
+
