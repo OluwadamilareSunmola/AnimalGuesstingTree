@@ -1,21 +1,4 @@
-/*
-Extra Credit- Animal Guestin
-Your Name:Oluwadamilare Sunmola
-Creation Date: April 10, 2024
-Class Number and Section: CS 1337.010
-Purpose: Creating a binary search tree from scratch and performing operations
-Changelog:
-April 6: Learnt the basic of inserting nodes in a BST
-April 7: Try adding numbers into a BST and arranging them
-April 8: Got started on the assignment but faced issues
-April 9: Finished assignment;
-April 10: Started the extra credit assignment
-April 11: Improved the current code to be able to save my tree
-April 12: Added an upgrade feature to save my tree and load it onto a file
-April 13: Added another feature where i can read another person's data base and perform operations
-Notes:
-Future Directions: Learn more about the binary search tree and improve on it
-*/
+
 
 
 
